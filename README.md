@@ -1,15 +1,9 @@
 # Overview
-
-{The Task Scheduler App is a Java written application that allows the user to add, update and remove tasks. It is also integrated with a calendar which expands its feature by allowing users to manage events.}
+The Task Scheduler App is a Java written application that allows the user to add, update and remove tasks. It is also integrated with a calendar which expands its feature by allowing users to manage events.
 
 # Additional Programs 
-
-{ 
 - Local ATM Application - A Java written program that allows the user to check balance, withdraw cash amount and change PIN. The application does not have a GUI yet but runs in the terminal.
 - Local Restaurant Ordering Application - A Java written application that allows user to add orders and gets the list of orders at the end.
-
-}
-{Software Description for All Programs:
 
 # Task Scheduler App
 - GUI Version - Since Java is an OOP language, a much better visual of the software can be used to access.
@@ -25,7 +19,6 @@
 - Console Based - The software runs in the local terminal for easier use and access.
 - Error Handling - It ensures that user inputs are valid to run the whole program.
 - Basic Data Structure - The program uses an ArrayList to add input data based on the orders selected.
-}
 
 # Purpose
 
@@ -36,13 +29,10 @@
 [Software Demo Video](https://youtu.be/bkekbjKkY1U)
 
 # Development Environment
-
-{
 - Java SE (Java™ Platform Standard Edition 21 Development Kit - JDK™ 21)
 - IDE: Eclipse, Visual Studio Code
 - Programming Language: Java
 - Libraries: Swing
-}
 
 # Useful Websites
 
