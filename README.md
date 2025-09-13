@@ -22,9 +22,7 @@ The Task Scheduler App is a Java written application that allows the user to add
 
 # Purpose
 
-{My purpose for writing these softwares is to demonstrate my simple and basic application of the Java language. It is also to display my capabilities in writing working software that has more rooms of improvement. }
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+My purpose for writing these softwares is to demonstrate my simple and basic application of the Java language. It is also to display my capabilities in writing working software that has more rooms of improvement. 
 
 [Software Demo Video](https://youtu.be/bkekbjKkY1U)
 
