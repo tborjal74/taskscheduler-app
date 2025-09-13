@@ -25,6 +25,9 @@ public class restaurantorder {
             if(addOrder.equals("salad")){
                 order.add("Salad");
             }
+            else {
+                System.out.println("Invalid Order. Please try again!");
+            }
             System.out.println("Do you wish to add more orders?:");
             confirmOrder = inputScanner.nextLine();
 
